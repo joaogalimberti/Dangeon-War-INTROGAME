@@ -1,9 +1,11 @@
 ------------------------------------------------SOBRE O JOGO-----------------------------------------------------
+
 O Dangeon War é um jogo de RPG em que cada jogador controla três personagens. Durante a longa aventura, os parti-
 cipantes comandam as ações dos seus heróis e a interação deles com os outros personagens. 
 
 
 -------------------------------------------HISTÓRIA DOS PERSONAGENS----------------------------------------------
+
 PALADINO: Em tempos de muita guerra, os Países buscavam pessoas para explorarem dungeons misteriosas com criatu-
 ras fantásticas, para conquistarem mais riquezas e até mesmo poderes desconhecidos. Nesse meio, Lesly, uma jovem
 camponesa, se voluntaria a lutar junto ao seu país. A jovem treinava todos os dias como auto-defesa, além de caçar
@@ -57,6 +59,7 @@ DEFESA: 30
 VELOCIDADE: 2
 
 --------------------------------------------MECANICA DO JOGO--------------------------------------------------
+
 AO EXECUTAR O JOGO,HAVERÁ UM MENU NO QUAL PODERÁ SER SELECIONADO O BOTÃO DE JOGAR(LEVA O USUARIO DIRETAMENTE À
 TELA DE SELEÇÃO DOS PERSONAGENS), O BOTÃO DE CRÉDITOS(LEVA O USUARIO DIRETAMENTE AOS CRÉDITOS DO JOGO) E O BO-
 TÃO DE SAIR. SEGUINDO EM FRENTE, TEMOS A SELEÇÃO DOS PERSONAGENS QUE É FEITA COM O BOTÃO DO MOUSE E CONFIRMADO
