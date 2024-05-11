@@ -5,6 +5,9 @@ This is the final project of the Introduction to Python Programming course, offe
 ## 🔍 About the Game
 Dungeon War is an RPG game where each player controls a team of three characters. Players embark on a long adventure, commanding the actions of their heroes and interacting with other characters in the game world.
 
+![image](https://github.com/joaogalimberti/Dangeon-War-INTROGAME/assets/106310095/aba97c7c-bb74-4cf1-93a7-99d73025c875)
+
+
 ## 📖 Characters' Story
 
 ### 🤺 Paladin
